@@ -13,5 +13,5 @@ Stardust漏洞检测利用工具，支持一键检测、命令执行、文件上
 <img width="800" alt="image" src="https://github.com/JosT4r/StardustKit/assets/104313845/fb77b64a-6894-4faa-83d9-d76ef8fa3123">
 
 ## 支持类型
-主要支持命令执行、文件上传、sql注入
+- 主要支持命令执行、文件上传、sql注入
 <img width="800" alt="image" src="https://github.com/JosT4r/StardustKit/assets/104313845/4840e1c0-b709-47d6-a456-c0996ceb4f3e">
